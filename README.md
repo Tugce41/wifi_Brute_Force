@@ -11,7 +11,7 @@ Bu yalnızca Debian Tabanlı Dağıtımlarda çalışır.
 apt update
 apt install git
 git clone https://github.com/Tugce41/wifi_Brute_Force.git
-cd PisoWifi-BruteForce
+cd Wifi-BruteForce
 ./install.sh
 ./main.sh
 ```
