@@ -10,7 +10,7 @@ Bu yalnızca Debian Tabanlı Dağıtımlarda çalışır.
 ```
 apt update
 apt install git
-git clone 
+git clone https://github.com/Tugce41/wifi_Brute_Force.git
 cd PisoWifi-BruteForce
 ./install.sh
 ./main.sh
